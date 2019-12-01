@@ -6,10 +6,10 @@ A simple analog clock that displays on the terminal.
 
 ## Usuage
 '''
-make
+make \
 ./stc [DIMENSION]
 '''
 
-Where DIMENSION sets the number of pixels wide that the clock will be displayed.
+Where DIMENSION sets the number of pixels wide that the clock will be displayed.\
 Default DIMENSION is 37.
 
