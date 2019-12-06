@@ -1,6 +1,7 @@
 # Terminal Clock
 A simple analog clock that displays on the terminal
-## Usuage
+
+## Usage
 ```
 make
 ./stc [OPTION]
